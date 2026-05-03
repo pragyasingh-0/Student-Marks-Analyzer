@@ -30,7 +30,7 @@
 - python student_marks_analyzer.py
 
   
-#Learning Outcomes
+# Learning Outcomes
 
 - NumPy basics
 
