@@ -1,33 +1,33 @@
--- #Student Marks Analyzer CLI --
+ #Student Marks Analyzer CLI 
 
 -> A simple Python CLI project using NumPy to analyze student marks.
 
 # Features
 
---Input student marks
+- Input student marks
 
---Calculate average marks
+- Calculate average marks
 
---Find highest and lowest scores
+- Find highest and lowest scores
 
---Display median marks
+- Display median marks
 
---Pass/fail count
+- Pass/fail count
 
---Grade classification
+- Grade classification
 
 
 # Technologies Used
 
---Python 3
+- Python 3
 
---NumPy
+- NumPy
 
 
 # Installation
 
---pip install numpy
---python student_marks_analyzer.py
+- pip install numpy
+- python student_marks_analyzer.py
 
 #Sample Input
 
@@ -40,24 +40,24 @@
 
 #Learning Outcomes
 
---NumPy basics
+- NumPy basics
 
---Statistical analysis
+- Statistical analysis
 
---Python loops and conditions
+- Python loops and conditions
 
---CLI project development
+- CLI project development
 
 
 # Future Improvements
 
---CSV export
+- CSV export
 
---Subject-wise analysis
+- Subject-wise analysis
 
---GUI version
+- GUI version
 
 
-Author : Pragya Singh
+-> Author : Pragya Singh
 
-Built during my #100DaysOfCode journey.
+# Built during my #100DaysOfCode journey.
