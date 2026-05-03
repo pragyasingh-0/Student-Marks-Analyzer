@@ -1,4 +1,4 @@
- #Student Marks Analyzer CLI 
+ # Student Marks Analyzer CLI 
 
 -> A simple Python CLI project using NumPy to analyze student marks.
 
@@ -29,15 +29,7 @@
 - pip install numpy
 - python student_marks_analyzer.py
 
-#Sample Input
-
-5
-78
-92
-65
-34
-88
-
+  
 #Learning Outcomes
 
 - NumPy basics
